@@ -21,6 +21,8 @@ NumPy
 Pillow
 
 ## Project Structure
+
+```text
 ecobin/
 │
 ├── dataset/
@@ -37,6 +39,7 @@ ecobin/
 ├── model.h5
 ├── requirements.txt
 └── README.md
+```
 ## How to Run
 git clone https://github.com/your-username/ecobin.git
 cd ecobin
