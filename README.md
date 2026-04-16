@@ -19,6 +19,7 @@ TensorFlow (MobileNetV2)
 Streamlit
 NumPy
 Pillow
+
 ## Project Structure
 ecobin/
 │
